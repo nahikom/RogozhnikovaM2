@@ -1,18 +1,16 @@
 @media (max-width: 415px) {
     html{
-        width: 615px;
+        width: 100%;
     }
     body {
-        width: 615px;
+        width: 100%;
     }
     img {
         width: 70%;
     }
     .tubl {
-        height: 500px;
-        width: 615px;
+        width: 375px;
         overflow: auto;
-        text-align: center;
     }
     nav {
         width: 300px;
