@@ -26,6 +26,9 @@
     .f {
         order: 1;
     }
+    h1 {
+        text-shadow: 2px 2px 2px #000;
+    }
 }
 
 @media not (max-width: 415px){
