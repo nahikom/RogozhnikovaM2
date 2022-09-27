@@ -18,6 +18,7 @@
     }
     #parent {
         display: flex;
+        flex-direction: column;
     }
     .tubl {
         order: 2;
