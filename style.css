@@ -145,6 +145,10 @@ td {
     color: #ffffff;
 }
 
+form {
+    background-color: rgba(143, 189, 234, 0.6);
+}
+
 footer {
     background-color: #1c70c4;
     padding: 40px 0;
