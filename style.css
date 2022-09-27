@@ -16,6 +16,15 @@
     nav {
         width: 300px;
     }
+    #parent {
+        display: flex;
+    }
+    .tubl {
+        order: 2;
+    }
+    #f {
+        order: 1;
+    }
 }
 
 @media not (max-width: 415px){
