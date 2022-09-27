@@ -11,6 +11,7 @@
     .tubl {
         width: 375px;
         overflow: auto;
+        justify-content: center;
     }
     nav {
         width: 300px;
